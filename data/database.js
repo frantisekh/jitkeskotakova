@@ -8,6 +8,8 @@
         "forceLogout": false,
         "password": "$2y$10$CWA2WNuT\/cq32zsv.D7I5OvIJvK7bgNtiFZs4exxF1ZQkqT9sTR0.",
         "lastLogins": {
+            "2020\/06\/18 11:29:01": "::1",
+            "2020\/06\/18 11:15:38": "::1",
             "2020\/06\/17 09:55:50": "::1",
             "2020\/06\/17 09:48:26": "::1"
         },
@@ -54,7 +56,7 @@
                 "10": "https:\/\/github.com\/robiso\/translation-polish",
                 "11": "https:\/\/github.com\/robiso\/translation-slovenian"
             },
-            "lastSync": "2020\/06\/17"
+            "lastSync": "2020\/06\/18"
         },
         "customRepos": {
             "themes": {},
@@ -79,7 +81,7 @@
             "title": "Home",
             "keywords": "Keywords, are, good, for, search, engines",
             "description": "A short description is also good.",
-            "content": "<h2>Kontakt<\/h2>\n<p class=\"lead\">MuDr. Jitka Skotáková - praktická lékařka pro dospělé<br>\nJana Knotková - zdravotní sestra<\/p>\n\n<p><span class=\"lead\">+420 516 838 405<br>\n+420 734 112 712<\/span> (pouze v ordinačních hodinách, poté je mobil vypnut)<\/p>\n\n<h3>Ordinační hodiny<\/h3>\n<table class=\"table table-sm table-bordered\">\n<thead>\n<tr>\n  <th>-<\/th>\n  <th>akutní případy<\/th>\n  <th>pro objednané<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n  <td>Pondělí<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Úterý<\/td>\n  <td>9:00 - 16:00<\/td>\n  <td>16:00 - 18:00<\/td>\n<\/tr>\n<tr>\n  <td>Středa<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Čtvrtek<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Pátek<\/td>\n  <td>7:30 - 12:00<\/td>\n  <td><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<i class=\"d-inline-block mb-4\">Odběry jsou od 7:00 do 8:00<\/i>\n<h4>Ordinace<\/h4>\n<p><a href=\"https:\/\/goo.gl\/maps\/piZPaBCr28j1eF1L8\">Sadová 1596\/33, 678 01 Blansko<\/a> - areál Nemocnic Blansko<br>\n\n<\/p><div class=\"embed-container my-4\"><iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2598.5025550412106!2d16.650004115692237!3d49.361563079339994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47128e9c2060b0f9%3A0x9dda8f760f35d275!2sSadov%C3%A1%201596%2F33%2C%20678%2001%20Blansko!5e0!3m2!1scs!2scz!4v1592396054206!5m2!1scs!2scz\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe><\/div>\n\n<h4>Pojišťovny<\/h4>\n\n<ul>\n<li>111 - Všeobecná zdravotní pojišťovna ČR<\/li>\n<li>211 - Zdravotní pojišťovna ministerstva vnitra ČR<\/li>\n<li>205 - Česká průmyslová zdravotní pojišťovna<\/li>\n<li>201 - Vojenská zdravotní pojišťovna ČR<\/li>\n<li>207 - Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví<\/li>\n<\/ul>"
+            "content": "<h2>Kontakt<\/h2>\n<p class=\"lead\">MUDr. Jitka Skotáková - praktická lékařka pro dospělé<br>\nJana Knotková - zdravotní sestra<\/p>\n\n<p><span class=\"lead\">+420 516 838 405<br>\n+420 734 112 712<\/span> (pouze v ordinačních hodinách, poté je mobil vypnut)<\/p>\n\n<h3>Ordinační hodiny<\/h3>\n<table class=\"table table-sm table-bordered\">\n<thead>\n<tr>\n  <th>-<\/th>\n  <th>akutní případy<\/th>\n  <th>pro objednané<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n  <td>Pondělí<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Úterý<\/td>\n  <td>9:00 - 16:00<\/td>\n  <td>16:00 - 18:00<\/td>\n<\/tr>\n<tr>\n  <td>Středa<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Čtvrtek<\/td>\n  <td>7:30 - 11:30<\/td>\n  <td>11:30 - 13:00<\/td>\n<\/tr>\n<tr>\n  <td>Pátek<\/td>\n  <td>7:30 - 12:00<\/td>\n  <td><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<i class=\"d-inline-block mb-4\">Odběry jsou od 7:00 do 8:00<\/i>\n<h4>Ordinace<\/h4>\n<p><a href=\"https:\/\/goo.gl\/maps\/piZPaBCr28j1eF1L8\">Sadová 1596\/33, 678 01 Blansko<\/a> - areál Nemocnic Blansko<br>\n\n<\/p><div class=\"embed-container my-4\"><iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2598.5025550412106!2d16.650004115692237!3d49.361563079339994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47128e9c2060b0f9%3A0x9dda8f760f35d275!2sSadov%C3%A1%201596%2F33%2C%20678%2001%20Blansko!5e0!3m2!1scs!2scz!4v1592396054206!5m2!1scs!2scz\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe><\/div>\n\n<h4>Pojišťovny<\/h4>\n\n<ul>\n<li>111 - Všeobecná zdravotní pojišťovna ČR<\/li>\n<li>211 - Zdravotní pojišťovna ministerstva vnitra ČR<\/li>\n<li>205 - Česká průmyslová zdravotní pojišťovna<\/li>\n<li>201 - Vojenská zdravotní pojišťovna ČR<\/li>\n<li>207 - Oborová zdravotní pojišťovna zaměstnanců bank, pojišťoven a stavebnictví<\/li>\n<\/ul>"
         },
         "home": null
     },
