@@ -43,7 +43,6 @@
 				<div class="col-sm-7">
 					<div>
 						<?= $Wcms->page('content') ?>
-
 					</div>
 				</div><!-- /.col-lg-8 -->
 				<div class="col-sm-5">
@@ -56,15 +55,14 @@
 
 		<footer class="bg-light"> 
 			<div class="container">
-    		<div class="text-center py-5">
-				<h3 class="text-primary">FISMEDICA s.r.o</h3>
-							<p>
-IČ: 29222303<br>
-sídlo:  Vilémovice 156, 679 06 Vilémovice<br>
-datová schránka: kfmr26u<br>
-Spisová značka C 66713/KSBR, Krajský soud v Brně</p>
-
-    		</div>
+				<div class="text-center py-5">
+					<h3 class="text-primary">FISMEDICA s.r.o</h3>
+						<p>IČ: 29222303<br>
+						sídlo:  Vilémovice 156, 679 06 Vilémovice<br>
+						datová schránka: kfmr26u<br>
+						Spisová značka C 66713/KSBR, Krajský soud v Brně</p>
+				</div>
+			</div>
     	</footer>
 
     	<!-- Bootstrap core JavaScript
