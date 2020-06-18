@@ -6,7 +6,7 @@
         "login": "admin",
         "loggedIn": false,
         "forceLogout": false,
-        "password": "$2y$10$8ASsMYuMidIQh2i8ffym0OaTd8c\/KHf8ESJd2cwzfYco.bOojzeiO",
+        "password": "$2y$10$CWA2WNuT\/cq32zsv.D7I5OvIJvK7bgNtiFZs4exxF1ZQkqT9sTR0.",
         "lastLogins": {
             "2020\/06\/17 09:55:50": "::1",
             "2020\/06\/17 09:48:26": "::1"
